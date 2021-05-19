@@ -1,3 +1,7 @@
+body {
+    background-color: palevioletred;
+}
+
 .choice-container {
     display: flex;
     margin-bottom: 0.5rem;
@@ -44,19 +48,24 @@
 .hud-prefix {
     text-align: center;
     font-size: 2rem;
+    color: black;
 }
 
 #progressBar {
     width: 20rem;
     height: 4rem;
-    border: 0.3rem solid #56a5eb;
+    border: 0.3rem solid peachpuff;
     margin-top: 1.5rem;
 }
 
 #progressBarFull {
     height: 3.4rem;
-    background-color: #56a5eb;
+    background-color: peachpuff;
     width: 0%;
+}
+
+#score {
+    color: peachpuff;
 }
 
 #loader {

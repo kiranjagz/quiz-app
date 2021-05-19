@@ -1,0 +1,28 @@
+{
+    "name": "quiz-app",
+    "version": "1.0.1",
+    "description": "Node.js website",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.7",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kiranjagz/quiz-app.git"
+    },
+    "keywords": [
+        "javascript"
+    ],
+    "author": "kiran.jagathlal",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kiranjagz/quiz-app/issues"
+    },
+    "homepage": "https://github.com/kiranjagz/quiz-app#readme"
+}
