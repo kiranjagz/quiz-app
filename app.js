@@ -14,8 +14,6 @@ app.use(function(req, res, next) {
     next();
 });
 
-// app.use(express.static(__dirname + '/src'));
-
 router.use(function(req, res, next) {
     console.log('/' + req.method);
     next();
