@@ -10,6 +10,8 @@ Built using the following:
  - Docker and publish image to docker hub
  - CSS3
 
+The site can be accessed on the free hosting site surge.sh => https://galactic-quiz.surge.sh/
+
 ## License
 
 None
